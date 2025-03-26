@@ -1,5 +1,7 @@
 ## My auditing profile(s):
+- [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of all platforms
 - [CodeHawks](https://profiles.cyfrin.io/u/riceee)
+- [Code4rena](https://code4rena.com/@Riceee)
 
 ## Total Bugs Found
 | Bug Severity   | Number of Bugs |
