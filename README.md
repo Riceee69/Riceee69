@@ -2,6 +2,7 @@
 - [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of all platforms
 - [CodeHawks](https://profiles.cyfrin.io/u/riceee)
 - [Code4rena](https://code4rena.com/@Riceee)
+- [Cantina](https://cantina.xyz/u/Riceee)
 
 
 ## My Competitive Audit Stats
