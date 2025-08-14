@@ -15,3 +15,4 @@
 | [2025/03 Nudge](https://code4rena.com/audits/2025-03-nudgexyz)| Rewards | - | [Report](https://code4rena.com/reports/2025-03-nudgexyz) | - |
 | [2025/04 Forte](https://code4rena.com/audits/2025-04-forte-float128-solidity-library)| Floating Math Library | 1H | [Report](https://code4rena.com/reports/2025-04-forte-float128-solidity-library) | 6th |
 | [2025/04 Kinetiq](https://code4rena.com/audits/2025-04-kinetiq)| Liquid Staking (Hyperliquid) | 2H, 2M | [TBD]() | 11th |
+| [2025/07 OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)| Vault/Staking | 1H, 1M | [TBD]() | 1st |
