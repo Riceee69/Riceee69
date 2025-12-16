@@ -19,4 +19,7 @@
 | [2025/07 Notional](https://audits.sherlock.xyz/contests/1001)| Leveraged Staking Strategies | 2M | [Report](https://audits.sherlock.xyz/contests/1001/report) | 38th |
 | [2025/07 OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)| Vault/Staking | 1H, 1M | [Report](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest?tab=reports) | 1st |
 | [2025/07 GTE CLOB and Router](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)| CLOB and Router | 1H, 1M | [TBD]() | 9th |
+| [2025/07 GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)| Perpetuals and Launchpad | Judging Phase | [TBD]() | - |
+| [2025/08 Ekubo](https://code4rena.com/audits/2025-11-ekubo)| AMM with Extensions(Hooks) | Judging Phase  | [TBD]() | - |
+
 ---
