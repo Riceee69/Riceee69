@@ -1,3 +1,5 @@
+Independent EVM Security Researcher who loves starting at codebases(and sometimes pulling my hair) and new challenges!
+
 ## My auditing profile(s):
 - [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of certain platforms(Not upto date always)
 - [CodeHawks](https://profiles.cyfrin.io/u/riceee)
