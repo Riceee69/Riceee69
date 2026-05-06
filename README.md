@@ -1,7 +1,7 @@
 Independent EVM Security Researcher who loves starting at codebases(and sometimes pulling my hair) and new challenges!
 
 ## My auditing profile(s):
-- [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of certain platforms(Not upto date always)
+- [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of CodeHawks, Code4rena and Cantina (Not upto date always)
 - [CodeHawks](https://profiles.cyfrin.io/u/riceee)
 - [Code4rena](https://code4rena.com/@Riceee)
 - [Cantina](https://cantina.xyz/u/Riceee)
