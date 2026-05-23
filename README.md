@@ -24,5 +24,7 @@ Independent EVM Security Researcher who loves starting at codebases(and sometime
 | [2025/07 GTE CLOB and Router](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)| CLOB and Router | 1H, 1M | [Report](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) | 9th |
 | [2025/07 GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)| Perpetuals and Launchpad | 1M | [Report](https://code4rena.com/reports/2025-08-gte-perps-and-launchpad) | 28th |
 | **2026** | | | | |
+| [2026/01 Fluid DEX V2](https://audits.sherlock.xyz/contests/1225) | DEX, MoneyMarket | 1H | -- | 12th |
+| [2026/04 Monetrix](https://code4rena.com/audits/2026-04-monetrix) | HyperLiquid Yield Layer | 1M | [Report](https://code4rena.com/reports/2026-04-monetrix) | 3rd |
 
 ---
