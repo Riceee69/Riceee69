@@ -20,11 +20,11 @@ Independent EVM Security Researcher who loves starting at codebases(and sometime
 | [2025/04 Kinetiq](https://code4rena.com/audits/2025-04-kinetiq)| Liquid Staking (Hyperliquid) | 2H, 2M | [Report](https://code4rena.com/reports/2025-04-kinetiq) | 10th |
 | [2025/06 Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards)| Rewards | 1M | Private | 8th |
 | [2025/07 Notional](https://audits.sherlock.xyz/contests/1001)| Leveraged Staking Strategies | 2M | [Report](https://audits.sherlock.xyz/contests/1001/report) | 38th |
-| [2025/07 OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)| Vault/Staking | 1H, 1M | [Report](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest?tab=reports) | 1st |
+| [2025/07 OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)| Vault/Staking | 1H, 1M | [Report](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest?tab=reports) | 1st 🥇 |
 | [2025/07 GTE CLOB and Router](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)| CLOB and Router | 1H, 1M | [Report](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) | 9th |
 | [2025/07 GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)| Perpetuals and Launchpad | 1M | [Report](https://code4rena.com/reports/2025-08-gte-perps-and-launchpad) | 28th |
 | **2026** | | | | |
 | [2026/01 Fluid DEX V2](https://audits.sherlock.xyz/contests/1225) | DEX, MoneyMarket | 1H | -- | 12th |
-| [2026/04 Monetrix](https://code4rena.com/audits/2026-04-monetrix) | HyperLiquid Yield Layer | 1M | [Report](https://code4rena.com/reports/2026-04-monetrix) | 3rd |
+| [2026/04 Monetrix](https://code4rena.com/audits/2026-04-monetrix) | HyperLiquid Yield Layer | 1M | [Report](https://code4rena.com/reports/2026-04-monetrix) | 3rd 🥉|
 
 ---
