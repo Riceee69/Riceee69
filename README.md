@@ -1,6 +1,6 @@
-Independent EVM Security Researcher who loves staring at codebases(and sometimes pulling my hair) and new challenges!
+Independent EVM Security Researcher who loves staring at codebases.
 
-## My auditing profile(s):
+## Auditing profile(s):
 - [Sherlock](https://audits.sherlock.xyz/watson/Riceee) - Shows aggregate of CodeHawks, Code4rena and Cantina (Not upto date always)
 - [CodeHawks](https://profiles.cyfrin.io/u/riceee)
 - [Code4rena](https://code4rena.com/@Riceee)
@@ -8,7 +8,7 @@ Independent EVM Security Researcher who loves staring at codebases(and sometimes
 - [HackenProof](https://hackenproof.com/hackers/Riceee)
 
 
-## My Competitive Audit Stats
+## Competitive Audit Stats
 | Contest      | Type | Vulnerabilities Found | Contest Report | Rankings |
 |--------------|-----------|-------------|----------|-----------------|
 | **2025** | | | | |
@@ -28,3 +28,14 @@ Independent EVM Security Researcher who loves staring at codebases(and sometimes
 | [2026/04 Monetrix](https://code4rena.com/audits/2026-04-monetrix) | HyperLiquid Yield Layer | 1M | [Report](https://code4rena.com/reports/2026-04-monetrix) | 3rd 🥉|
 
 ---
+
+## Private Audit Stats
+| Project Name | Type | Firm/Self | Contest Report |
+|--------------|-----------|-------------|----------|
+| **2026** | | | |
+| 2026/04 **Castr.fun**| Token Launcpad and Reward Distribution | [Kann Audits](https://x.com/KannAudits) (Internship) | Private |
+| 2026/04 **Undisclosed**| Confidential Lending Adapter using Zama’s fhEVM encryption | [Kann Audits](https://x.com/KannAudits) (Internship) | Private |
+| 2026/04 **Need4Audit**| Decentralized Audit Platform | [Kann Audits](https://x.com/KannAudits) (Internship) | Private |
+
+---
+
